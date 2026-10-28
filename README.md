@@ -1,6 +1,6 @@
 # 📦 E-Commerce Analytics: Prediksi Risiko Keterlambatan & Segmentasi Pelanggan
 
-## 📌 Ringkasan Eksekutif (Insight 1 Halaman)
+## 📌 Ringkasan Eksekutif
 Dalam industri e-commerce, kepuasan pelanggan bergantung pada dua hal utama: **ketepatan waktu pengiriman** dan **relevansi penawaran (marketing)**. Proyek ini menggabungkan dua pendekatan *Machine Learning* pada dataset e-commerce publik (Olist Brazil) untuk menjawab tiga pertanyaan bisnis:
 1. Pesanan mana yang berisiko terlambat?
 2. Pelanggan mana yang paling bernilai?
@@ -23,7 +23,7 @@ Dalam industri e-commerce, kepuasan pelanggan bergantung pada dua hal utama: **k
 
 Proyek ini dilengkapi dengan dashboard interaktif yang memungkinkan pengguna memasukkan data pesanan atau RFM pelanggan dan melihat hasil prediksi secara *real-time*.
 
-🔗 **[Klik di sini untuk membuka Dashboard Streamlit](https://segmentasi-pelanggan-e-commerce.streamlit.app)**
+🔗 **[Klik di sini untuk membuka Dashboard Streamlit](https://segmentasi-pelanggan-e-commerse.streamlit.app/)**
 
 ![Preview Dashboard E-Commerce]()
 
